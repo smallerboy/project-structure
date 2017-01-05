@@ -20,7 +20,7 @@
 ###Macro
 将app中会用的宏定义放入其中(可用pch创建多个类型宏定义文件)
 ###Sections
-对应app的具体单元(导航,瀑布流) 具体单元? 原来是app被区分的几大模块(不同app有不同的区分,但都是会分为不同的模块的把?)每个具体的单元由对应的及部分组成Views,Controller,ViewModel,Model,NetWork(视使用的模式而定)
+对应app的具体单元(导航,瀑布流) 具体单元? 原来是app被区分的几大模块(不同app有不同的区分,但都是会分为不同的模块的)每个具体的单元由对应的及部分组成Views,Controller,ViewModel,Model,NetWork(视使用的模式而定)
 ###Helper
 存放一些帮助类(可以帮助controller瘦身)
 ###Vendor
